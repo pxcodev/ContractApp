@@ -47,3 +47,5 @@
 |![Home](./assets/images/captures/Screenshot_1647296421.png "Assign contract")|![Home](./assets/images/captures/Screenshot_1647296427.png "Payments")|
 |![Home](./assets/images/captures/Screenshot_1647296430.png "Trash")|![Home](./assets/images/captures/Screenshot_1647296447.png "Assistances")|
 |![Home](./assets/images/captures/Screenshot_1647296454.png "Assign attendance of a worker")|![Home](./assets/images/captures/Screenshot_1647298571.png "Attendance lists of a worker")|
+
+## **Note: It is not possible to upload the system code to a public repository due to internal company policies.**
